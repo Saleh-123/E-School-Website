@@ -11,11 +11,7 @@ h1{
 .upper-container{
     background-color: #f0fff0;
 }
+
 .get-started{
-    background-image: linear-gradient(to bottom,#0de93c 0%,#056d02 100%);
-    color: #FFF;
-    border: none;
-    border-radius: 8px;
-    padding: 9px 25px;
-    cursor: pointer;
+    border-radius: 15px;
 }
