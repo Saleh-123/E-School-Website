@@ -30,3 +30,6 @@ h1{
 .online-course-button{
     border-radius: 15px;
 }
+.online-course, .testimonial{
+    margin-bottom: 100px;
+}
